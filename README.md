@@ -1,2 +1,2 @@
 # VoiceEQ
-Equalise volume levels in an audio
+Just run eq.py
